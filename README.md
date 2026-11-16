@@ -2,7 +2,8 @@
 
 **Python | SQL | Power BI** - an end-to-end analysis of 3,900 retail purchases to find out how customers shop and what the business should do about it.
 
-![Customer Behavior Dashboard](dashboard-1.png)
+<img width="1481" height="829" alt="image" src="https://github.com/user-attachments/assets/66b0b7aa-3d0c-4404-98f3-a25bf76d2436" />
+
 
 ---
 
